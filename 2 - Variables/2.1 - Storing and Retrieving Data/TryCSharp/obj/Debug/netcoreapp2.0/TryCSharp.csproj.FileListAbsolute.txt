@@ -1,0 +1,20 @@
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.deps.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.dev.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.pdb
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfoInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfo.cs
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\1 - Introduction\1.1 - What is C#\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.pdb
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.deps.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.runtimeconfig.dev.json
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\bin\Debug\netcoreapp2.0\TryCSharp.pdb
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfoInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.AssemblyInfo.cs
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.dll
+W:\Web Development\Courses\Pluralsight\csharp-using-variables-and-conditionals\2 - Variables\2.1 - Storing and Retrieving Data\TryCSharp\obj\Debug\netcoreapp2.0\TryCSharp.pdb
